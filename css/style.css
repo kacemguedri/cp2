@@ -1,0 +1,32 @@
+nav{
+    font-family: monospace;
+    font-size: 30px
+}
+/*footer*/
+
+.footer{
+    background:#303036 ;
+    color:#d3d3d3;
+    height:200px;
+    position:relative;
+}
+.footer.footer.bottom{
+   background: #343a40; 
+   color: #686868;
+   height: 50px;
+   width:100%;
+   position: absolute;
+   text-align:center;
+   bottom:0px;
+   left:0px;
+   padding-top:20px;
+}
+header {
+    background-color:#303036;
+    font-family: monospace;
+}
+
+
+
+
+    
